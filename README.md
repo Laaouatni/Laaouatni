@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Laaouatni
-- 👀 I’m interested in learning new things :)
-- 🌱 I’m currently learning C++ and sketchware
-- 💞️ I’m looking to collaborate on new projects for learning new things.
-- 📫 How to reach me @Laaouatni
+Hi, I’m @Laaouatni
+I’m interested in learning new things :)
+I’m currently learning C++ and Html
+I’m looking to collaborate on new projects for learning new things.
+How to reach me @Laaouatni
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
