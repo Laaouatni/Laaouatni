@@ -1,7 +1,11 @@
 Hi, I’m @Laaouatni
+
 I’m interested in learning new things :)
+
 I’m currently learning C++ and Html
+
 I’m looking to collaborate on new projects for learning new things.
+
 How to reach me @Laaouatni
 
 <!---
