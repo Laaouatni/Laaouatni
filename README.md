@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anas <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a></h1>
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
-<p align="center">🕐 I recently found out I had a hobby!<br>
-✅ so in September, I finally started trying to create mini-projects.</p>
+<p align="center">🕐 I Recently Found Out, I had a Hobby!<br>
+✅ So in September, I Finally Started...<br>Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
 
 <hr>
 <h3 align="center">Languages, I am learning:</h3>
