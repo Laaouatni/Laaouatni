@@ -33,8 +33,16 @@
 
 <h3 align="center">Most Used Languages:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laaouatni&show_icons=true&locale=en&layout=compact" alt="anas" /></p>
+    <p align="center"><a href="https://github.com/Laaouatni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni&theme=gotham" />
+</a></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas"/></p>
+
 <hr>
 
+<a href="https://github.com/Laaouatni/MyCode" title="myCode laaouatni"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaouatni&repo=MyCode&theme=gotham"></a>
+<h1 align="right">MyCode.</h1>
+<hr>
 <h3 align="center">Tree of 'myCode' Repesitory:</h3>
 
 ```
@@ -239,6 +247,13 @@ C:.
 │           └───META
 └───JavaScript
 ```
+
+<img src="https://img.shields.io/github/followers/Laaouatni?label=Follow" style=" float:left, margin-right:10px" />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
