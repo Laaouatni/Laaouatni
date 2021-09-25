@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
 <p align="center">🕐 I Recently Found Out, I had a Hobby!<br>
-✅ So in September, I Finally Started...<br>Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
+✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
 
 <hr>
 <h3 align="center">Languages, I am learning:</h3>
@@ -33,11 +33,14 @@
 
 
 <h3 align="center">Most Used Languages:</h3>
+
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laaouatni&show_icons=true&locale=en&layout=compact" alt="anas" /></p>
-    <p align="center"><a href="https://github.com/Laaouatni">
+    <p align="center"><a href="https://github.com/Laaouatni">-->
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni" />
 </a></p>
-<h3 align="center">laaouatni's Github stats:</h3>
+<h3 align="center">laaouatni's Github Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas"/></p>
 
 <hr>
