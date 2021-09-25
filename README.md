@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anas <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a></h1>
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
-<p align="center">🕐 I Recently Found Out, I had a Hobby!<br>
-✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
+<p align="center">🕐 I Recently Found Out, I had a Hobby!<br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
 
 <hr>
 <h3 align="center">Languages, I am learning:</h3>
@@ -21,7 +20,7 @@
 </p>
 <h3 align="center">Github Account:</h3>
 <p align="center">
-<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> -->
+    <!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> -->
     <a href="https://github.com/Laaouatni" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="git" width="40" height="40" /> </a>
 </p>
 
@@ -38,10 +37,11 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laaouatni&show_icons=true&locale=en&layout=compact" alt="anas" /></p>
     <p align="center"><a href="https://github.com/Laaouatni">-->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni" />
-</a></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni" />
+    </a>
+</p>
 <h3 align="center">laaouatni's Github Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas" /></p>
 
 <hr>
 
@@ -254,10 +254,10 @@ C:.
 ```
 
 <!--<img style="display: inline-block;" src="https://img.shields.io/github/followers/Laaouatni?label=Follow" />-->
-<img  style="display: inline-block;" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img style="display: inline-block;" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img  style="display: inline-block;" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img  style="display: inline-block;" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img  style="display: inline-block;" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img style="display: inline-block;" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img style="display: inline-block;" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img style="display: inline-block;" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img style="display: inline-block;" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img style="display: inline-block;" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
