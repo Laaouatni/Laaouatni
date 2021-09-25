@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anas <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a></h1>
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
-<p align="center">🕐 Recentemente ho Scoperto di aver un Hobby! <br>✅ quindi A Settembre, finalmente ho iniziato a provare a creare dei mini-progetti.</p>
+<p align="center">🕐 I recently found out I had a hobby!<br>
+✅ so in September, I finally started trying to create mini-projects.</p>
 
 <hr>
 <h3 align="center">Languages, I am learning:</h3>
@@ -34,7 +35,7 @@
 <h3 align="center">Most Used Languages:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laaouatni&show_icons=true&locale=en&layout=compact" alt="anas" /></p>
     <p align="center"><a href="https://github.com/Laaouatni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaouatni" />
 </a></p>
 <h3 align="center">laaouatni's Github stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas"/></p>
