@@ -54,7 +54,9 @@
 
 <a href="https://github.com/Laaouatni/MyCode" title="myCode laaouatni"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaouatni&repo=MyCode&theme=gotham"></a>
 <hr>
+<!--
 <h3 align="center">Tree of 'myCode' Repesitory:</h3>
+
 
 ```
 C:.
@@ -258,6 +260,7 @@ C:.
 │           └───META
 └───JavaScript
 ```
+-->
 
 <!--<img style="display: inline-block;" src="https://img.shields.io/github/followers/Laaouatni?label=Follow" />-->
 <img style="display: inline-block;" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img style="display: inline-block;" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
