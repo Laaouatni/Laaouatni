@@ -53,8 +53,10 @@
 <hr>
 
 <a href="https://github.com/Laaouatni/MyCode" title="myCode laaouatni"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaouatni&repo=MyCode&theme=gotham"></a>
-<hr>
+
 <!--
+<hr>
+
 <h3 align="center">Tree of 'myCode' Repesitory:</h3>
 
 
