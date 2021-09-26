@@ -1,11 +1,13 @@
 <!--Hi, I’m @Laaouatni-->
 
 <h1 align="center">Hi 👋, I'm Anas <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a></h1>
+
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
 <p align="center">🕐 I Recently Found Out, I had a Hobby!<br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
 
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" /> </p>
 <h3 align="center">Languages, I am learning:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
@@ -43,10 +45,14 @@
 <h3 align="center">laaouatni's Github Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas" /></p>
 
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Laaouatni" alt="anas" />
+</p>
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laaouatni&show_icons=true&locale=en&layout=compact" alt="laaouatni" /></p>-->
 <hr>
 
 <a href="https://github.com/Laaouatni/MyCode" title="myCode laaouatni"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Laaouatni&repo=MyCode&theme=gotham"></a>
-
 <hr>
 <h3 align="center">Tree of 'myCode' Repesitory:</h3>
 
