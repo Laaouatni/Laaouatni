@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
-<p align="center">🕐 I Recently Found Out, I had a Hobby!<br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
+<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" /> </p>
