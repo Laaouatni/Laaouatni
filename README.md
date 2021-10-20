@@ -32,7 +32,6 @@
     <a href="mailto:laaouatni.anas@outlook.it" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="anas" width="42" /></a>
 </p>
 
-
 <h3 align="center">Most Used Languages:</h3>
 
 <!--
@@ -85,8 +84,8 @@ C:.
 │   │           └───blocks
 │   │               ├───JAVA
 │   │               │   └───MainActivityJAVA
-│   │               │       ├───VERSIONE_ATTUALE        
-│   │               │       └───VERSIONI_VECCHIE        
+│   │               │       ├───VERSIONE_ATTUALE
+│   │               │       └───VERSIONI_VECCHIE
 │   │               └───XML
 │   │                   ├───VERSIONE_ATTUALE
 │   │                   └───VERSIONE_VECCHIE
