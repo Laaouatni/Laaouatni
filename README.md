@@ -29,7 +29,6 @@
 <h3 align="center">Where I can Contact You?</h3>
 <p align="center">
     <a href="https://linkedin.com/in/anas-laaouatni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas" height="30" width="40" /></a>
-    <a href="mailto:laaouatni.anas@outlook.it" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="anas" width="42" /></a>
 </p>
 
 <h3 align="center">Most Used Languages:</h3>
