@@ -40,8 +40,8 @@
 -->
 <h3 align="center">laaouatni's Time Stats:</h3>
 <div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/ea2aee3f-66da-485e-9415-f7aaaa461e47.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" /></a>
 </div>
 
 
