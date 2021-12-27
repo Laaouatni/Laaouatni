@@ -26,6 +26,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Laaouatni" alt="anas" />
 </p>
 
+<h3 align="center">laaouatni's StackOverFLow Stats:</h3>
+<img src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img>
+
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
