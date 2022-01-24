@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Junior Learning Developer.</h3>
 
-<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>
+<!--<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>-->
 
 <hr>
 
