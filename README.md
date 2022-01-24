@@ -6,11 +6,13 @@
 
 <!--<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>-->
 
-<hr>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" />
 </div>
+
+<hr>
 
 <h3 align="center">laaouatni's Time Stats:</h3>
 <div align="center">
@@ -27,7 +29,7 @@
 </p>
 
 <h3 align="center">laaouatni's StackOverFlow Stats:</h3>
-<img src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img>
+<img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img>
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
