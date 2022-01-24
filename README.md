@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="center">laaouatni's StackOverFlow Stats:</h3>
-<img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img>
+<p align="center"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img><p>
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
