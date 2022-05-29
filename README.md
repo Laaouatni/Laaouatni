@@ -10,6 +10,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" />
+[![wakatime](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)](https://wakatime.com/@350b968c-4c68-4401-ad27-cb1cae388bbf)
 </div>
 
 <hr>
