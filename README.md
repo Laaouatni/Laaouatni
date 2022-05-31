@@ -29,6 +29,7 @@
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Laaouatni" alt="anas" />
 </p>
+
 ![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
 
 <h3 align="center">laaouatni's StackOverFlow Stats:</h3>
@@ -39,6 +40,5 @@ Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
   
-![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
 
   ![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
