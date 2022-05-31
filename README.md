@@ -30,7 +30,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Laaouatni" alt="anas" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
+![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=react-dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Laaouatni&theme=dark)
 
