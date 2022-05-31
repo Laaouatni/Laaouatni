@@ -38,4 +38,6 @@ Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
   
+![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
+
   ![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
