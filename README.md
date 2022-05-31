@@ -32,6 +32,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Laaouatni&theme=dark)
+
 <h3 align="center">laaouatni's StackOverFlow Stats:</h3>
 <p align="center"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img><p>
 
