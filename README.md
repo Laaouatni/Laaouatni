@@ -29,6 +29,7 @@
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Laaouatni" alt="anas" />
 </p>
+![](https://activity-graph.herokuapp.com/graph?username=Laaouatni&theme=xcode)
 
 <h3 align="center">laaouatni's StackOverFlow Stats:</h3>
 <p align="center"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img><p>
