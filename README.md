@@ -22,6 +22,13 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" /></a>
 </div>
 
+<hr>
+
+<h3 align="center">laaouatni's StackOverFlow Stats:</h3>
+<p align="center"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img><p>
+
+<hr>
+
 
 <h3 align="center">laaouatni's Github Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laaouatni&show_icons=true&hide_border=true" alt="anas" /></p>
@@ -34,8 +41,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Laaouatni&theme=dark)
 
-<h3 align="center">laaouatni's StackOverFlow Stats:</h3>
-<p align="center"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light"></img><p>
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
