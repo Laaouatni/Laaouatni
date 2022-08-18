@@ -5,12 +5,6 @@
 
 <h3 align="center">I'm a Web Developer.</h3>
 
-<p align="center"> 
-curretly I'm working on this project:
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
-</p>
-
 <!--<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>-->
 
 <div align="center">
@@ -18,6 +12,12 @@ curretly I'm working on this project:
 
 [![wakatime](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)](https://wakatime.com/@350b968c-4c68-4401-ad27-cb1cae388bbf)
 </div>
+
+<p align="center"> 
+in this moment, I'm working on this project:
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
+</p>
 
 <hr>
 
