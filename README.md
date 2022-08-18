@@ -8,11 +8,11 @@
 <!--<p align="center">🕐 I Recently Found Out <u>FreeCodeCamp</u><br> ✅ So in September, I Finally Started...<br>👨‍💻Trying to Create Mini-Projects and Doing Courses, Read Documentation or Watching Programming Videos on Youtube!</p>-->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" />
-
-[![wakatime](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)](https://wakatime.com/@350b968c-4c68-4401-ad27-cb1cae388bbf)
   
+![](https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat)
+![](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
+  
 </div>
 
 <p align="center"> 
