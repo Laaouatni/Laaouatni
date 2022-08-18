@@ -11,7 +11,7 @@
   
 ![](https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat)
 ![](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)
-![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
+
   
 </div>
 
@@ -63,5 +63,7 @@ laaouatni's Github Stats:
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
 
 </div>
