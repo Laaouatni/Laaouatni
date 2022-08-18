@@ -10,7 +10,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" alt="laaouatni" />
-
+  
   [![wakatime](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)](https://wakatime.com/@350b968c-4c68-4401-ad27-cb1cae388bbf)
 </div>
 
@@ -18,8 +18,11 @@
 
 <h3 align="center">laaouatni's Time Stats:</h3>
 <div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Laaouatni/a7e54b2f-a801-4859-bffd-23f974a5a41a.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" /></a>
+<img src="https://wakatime.com/share/@Laaouatni/a7e54b2f-a801-4859-bffd-23f974a5a41a.png" />
+  
+![laaouatni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laaouatni)
+  
+<img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" />
 </div>
 
 <hr>
@@ -41,11 +44,12 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Laaouatni&theme=dark)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
 
 <!---
 Laaouatni/Laaouatni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  
+
 
   ![](https://visitor-badge.glitch.me/badge?page_id=Laaouatni)
