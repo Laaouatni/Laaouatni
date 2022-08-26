@@ -13,7 +13,11 @@
 
 in this moment, I'm working on this project:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GcodeJS&repo=gcode.js)
+<a href="https://github.com/gcodeJS/gcode.js">
+  
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GcodeJS&repo=gcode.js)
+  
+  </a>  
 
 <hr>
 
