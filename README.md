@@ -13,7 +13,7 @@
 
 in this moment, I'm working on this project:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GcodeJS&repo=gcode.js)
 
 <hr>
 
