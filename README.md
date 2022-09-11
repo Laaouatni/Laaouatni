@@ -10,8 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat)
 ![](https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg)
 
+maybe you see me there on Stack Overflow:
 
-in this moment, I'm working on this project:
+![](https://stackoverflow.com/users/flair/17716837.png)
+
+currently in Open Source, I'm working on this project:
 
 <a href="https://github.com/laaouatni/gcode.js">
   
