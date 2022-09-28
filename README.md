@@ -18,7 +18,10 @@ currently in Open Source, I'm working on this project:
 
 <a href="https://github.com/laaouatni/gcode.js">
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js)
+ <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js) -->
+ 
+ ![](https://opengraph.githubassets.com/d4342d9bcd51aa7d2d13b096f76fdb9e10b3e7fcd630173501fce468c555b7bb/gcodeJS/Gcode.js)
+ 
   
   </a>  
 
