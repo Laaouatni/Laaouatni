@@ -16,7 +16,7 @@ maybe you see me there on Stack Overflow:
 
 currently in Open Source, I'm working on this project:
 
-<a href="https://github.com/laaouatni/gcode.js">
+<a href="https://github.com/Gcode/gcode.js">
   
  <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js) -->
  
