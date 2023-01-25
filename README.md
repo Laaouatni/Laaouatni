@@ -14,17 +14,19 @@ maybe you see me there on Stack Overflow:
 
 ![](https://stackoverflow.com/users/flair/17716837.png)
 
+<!--
 currently in Open Source, I'm working on this project:
-
+<!--
 <a href="https://github.com/GcodeJS/gcode.js">
   
  <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laaouatni&repo=gcode.js) -->
- 
+ <!--
  ![](https://opengraph.githubassets.com/d4342d9bcd51aa7d2d13b096f76fdb9e10b3e7fcd630173501fce468c555b7bb/gcodeJS/Gcode.js)
  
-  
-  </a>  
-
+  <!--
+  </a> 
+ 
+-->
 <hr>
 
 <h3 align="center">laaouatni's Time Stats:</h3>
