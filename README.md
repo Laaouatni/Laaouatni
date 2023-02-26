@@ -6,7 +6,7 @@
     <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a>
   </h1>
 
-## I'm a Web Developer.
+I'm a Web Developer.
 
 <font size=7>⇓</font>
 
