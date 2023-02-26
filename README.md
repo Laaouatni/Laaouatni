@@ -52,7 +52,6 @@
 
 ## My Social Media
 
-[ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/laaouatni)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/laaouatni)
 [ ![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white) ](https://stackoverflow.com/users/17716837/laaouatni)
 [ ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) ](https://www.freecodecamp.org/laaouatni)
