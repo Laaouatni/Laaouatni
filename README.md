@@ -6,16 +6,16 @@
     <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a>
   </h1>
 
-I'm a Web Developer.
+### I'm a Web Developer.
 
-<font size=7>⇓</font>
+<h3>⇓</h3>
 
-  <div>
+  <h3>
     <b>⭐My Favourite Stack</b>:
     <font color=orange  size=7>SvelteKit</font>
     +
     <font color=#38bdf8  size=7>TailwindCSS</font>
-  </div>
+  </h3>
 
 ---
 
