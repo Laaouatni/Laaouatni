@@ -14,7 +14,7 @@
 
 ### ⬇️
 
-### *SvelteKit + TailwindCSS*
+### *SvelteKitJS + TailwindCSS*
 
 ---
 
