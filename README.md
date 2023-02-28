@@ -8,16 +8,13 @@
 
 ### I'm a Web Developer.
 
-⬇️
+---
 
-  <h3>
-    <b>⭐ My Favourite Stack</b>:
-<i>
-    <font color=orange  size=7>SvelteKit</font>
-    +
-    <font color=#38bdf8  size=7>TailwindCSS</font>
-</i>
-  </h3>
+## ⭐ My Favourite Stack:
+
+### ⬇️
+
+### *SvelteKit + TailwindCSS*
 
 ---
 
