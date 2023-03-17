@@ -88,5 +88,6 @@ I'm a Web Developer
 <img src="https://wakatime.com/share/@Laaouatni/76fa23f3-fb1b-4fe1-8530-5e6e391d66ad.png" height=auto width=100%/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laaouatni" height=auto width=100%/>
 <img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" height=auto width=100%/>
+<img src="https://wakatime.com/share/@Laaouatni/d976a6fa-f72c-4059-918b-b7fc96b3796b.png" height=auto width=100%/>
 
 </div>
