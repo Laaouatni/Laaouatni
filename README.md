@@ -6,13 +6,11 @@
     <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a>
   </h1>
 
-### I'm a Web Developer.
+I'm a Web Developer
 
 ---
 
-## ⭐ My Favourite Stack:
-
-### ⬇️
+### ⬇ My ⭐ Favourite Stack: ⬇
 
 ### *SvelteKitJS + TailwindCSS*
 
@@ -30,6 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg" />
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Laaouatni" /> -->
+  <img src="https://wakatime.com/share/@Laaouatni/3cf3e6c0-2c9d-4927-86d0-149bfac1757a.png" height=auto width=100% />
 
 ---
 
@@ -83,9 +82,10 @@
 
 ## Time Spent Coding
 
+<img src="https://wakatime.com/share/@Laaouatni/3cf3e6c0-2c9d-4927-86d0-149bfac1757a.png" height=auto width=100% />
 <img src="https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg" height=auto width=100%/>
-
 <img src="https://wakatime.com/share/@Laaouatni/a7e54b2f-a801-4859-bffd-23f974a5a41a.png" height=auto width=100%/>
+<img src="https://wakatime.com/share/@Laaouatni/76fa23f3-fb1b-4fe1-8530-5e6e391d66ad.png" height=auto width=100%/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laaouatni" height=auto width=100%/>
 <img src="https://wakatime.com/share/@350b968c-4c68-4401-ad27-cb1cae388bbf/03bae6f1-10e9-4f3a-b167-02ec71c4efc5.png" height=auto width=100%/>
 
