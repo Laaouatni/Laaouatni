@@ -32,7 +32,7 @@ I'm a Web Developer
 
 ---
 
-## My FreeCodeCamp Certifications
+## My Journey on FreeCodeCamp.org
 
 ```mermaid
 flowchart LR
@@ -127,6 +127,8 @@ flowchart LR
     d032                --> c11
 
 ```
+  
+### my FreeCodeCamp Certifications
 
 #### Front End Development Libraries
 
