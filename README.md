@@ -91,11 +91,11 @@ flowchart LR
             d03 --> d031[jQuery]
             d03 --> d033[React]
 
-            d033 --> d034 
+            d034 --> d033
             d03 --> c0
 
             subgraph Frameworks
-                d033 --> c0[Frameworks]
+                c0[Frameworks] --> d033
 
                 c0 --> favLangs
 
