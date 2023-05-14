@@ -6,7 +6,10 @@
     <a href="https://github.com/Laaouatni" target="_blank">Laaouatni</a>
   </h1>
 
-I'm a Web Developer
+  <span>
+    <p>I'm a <del> <i>Junior</i> </del> Web Developer.</p> 
+    <a href="https://github.com/laaouatni"><img src="https://img.shields.io/github/followers/laaouatni?label=Follow&amp;style=social" alt="Github"></a>
+  <span>
 
 ---
 
@@ -28,6 +31,8 @@ I'm a Web Developer
   <img src="https://komarev.com/ghpvc/?username=laaouatni&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://wakatime.com/badge/user/350b968c-4c68-4401-ad27-cb1cae388bbf.svg" />
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Laaouatni" /> -->
+  <a href="https://github.com/laaouatni"><img src="https://img.shields.io/github/followers/laaouatni?label=Follow&amp;style=social" alt="Github"></a>
+  
   <img src="https://wakatime.com/share/@Laaouatni/3cf3e6c0-2c9d-4927-86d0-149bfac1757a.png" height=auto width=100% />
 
 ---
