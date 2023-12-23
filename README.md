@@ -15,7 +15,7 @@
 
 ### ⬇ My ⭐ Favourite Stack: ⬇
 
-### *SvelteKitJS + TailwindCSS*
+### *SvelteKitJS + TailwindCSS + TypeScript*
 
 ---
 
