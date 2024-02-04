@@ -25,7 +25,7 @@ Now I am learning ARDUINO C++: https://www.tinkercad.com/users/3eC5gZvvAcy?type=
 
 ### maybe you saw me there on Stack Overflow
 
-<img src="https://stackoverflow.com/users/flair/16385213.png?theme=dark" width=100% />
+<a href="https://stackoverflow.com/users/16385213/laaouatni-anas"><img src="https://stackoverflow.com/users/flair/16385213.png" width="208" height="58" alt="profile for Laaouatni Anas at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Laaouatni Anas at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
   <a href="https://stackoverflow.com/users/17716837/laaouatni" target="_blank">
     <img src="https://stackoverflow-card.vercel.app/?userID=17716837&theme=stackoverflow-light" height=auto width=100% />
