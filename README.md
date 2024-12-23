@@ -13,13 +13,26 @@
 
 ---
 
-### ⬇ My ⭐ Favourite Stack: ⬇
+## ⬇ My ⭐ Favourite Stack: ⬇
 
-### *SvelteKitJS + TailwindCSS + TypeScript*
+# *SvelteKitJS + TailwindCSS + TypeScript*
+
+![Untitled design (1)](https://github.com/user-attachments/assets/9a441318-824c-4bb0-8936-b46f685716d2)
+
+
 
 ---
 
-Now I am learning ARDUINO C++: https://www.tinkercad.com/users/3eC5gZvvAcy?type=circuits
+<div align="left">
+  
+## Right now, I am focused now on:
+- Free Time: ESP32 with HTTP/WS (Learning) <br>
+![esp32-500x500-80x80](https://github.com/user-attachments/assets/bc4edf66-7382-4e15-a123-34dcee7993e9)
+
+
+- School:    ARDUINO -> https://www.tinkercad.com/users/3eC5gZvvAcy?type=circuits
+
+</div>
 
 ---
 
