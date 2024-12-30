@@ -19,7 +19,7 @@
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/9a441318-824c-4bb0-8936-b46f685716d2)
 
-
+> *actually, I am trying to recreate svelte framework from stratch https://github.com/Laaouatni/laaWebComponentLibrary, without npm, libraries, bundlers... *why not?!*
 
 ---
 
