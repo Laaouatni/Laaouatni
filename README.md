@@ -63,9 +63,9 @@
 flowchart LR
     d[Programming Courses I did]
 
-    d   --> d0[FreeCodeCamp]
+    d   ---> d0[FreeCodeCamp]
 
-    %% native --> langs
+    %% native ---> langs
     subgraph Native Web Languages Learned
         c12(JavaScript)
         c11(CSS)
@@ -73,58 +73,58 @@ flowchart LR
     end
 
     subgraph FreeCodeCamp
-    %% Freecodecamp --> Courses
-        d0  --> d01[Responsive Web Design]
-        d0  --> d02[JavaScript Algorithms and Data Structures]
-        d0  --> d03[Front End Development Libraries]
-        %% FCC Responsive Web Design --> Concepts
+    %% Freecodecamp ---> Courses
+        d0  ---> d01[Responsive Web Design]
+        d0  ---> d02[JavaScript Algorithms and Data Structures]
+        d0  ---> d03[Front End Development Libraries]
+        %% FCC Responsive Web Design ---> Concepts
         subgraph fcc1 [Freecodecamp's Responsive Web Design]
-            d01 --> c11 
-            d01 --> d0101[HTML5]
-            d01 --> d0102[CSS3]
-            d01 --> d010[Applied Visual Design]
-            d01 --> d011[Applied Accessibility]
-            d01 --> d012[Responsive Web Design Principles]
-            d01 --> d013[CSS Flexbox]
-            d01 --> d014[CSS Grid]
+            d01 ---> c11 
+            d01 ---> d0101[HTML5]
+            d01 ---> d0102[CSS3]
+            d01 ---> d010[Applied Visual Design]
+            d01 ---> d011[Applied Accessibility]
+            d01 ---> d012[Responsive Web Design Principles]
+            d01 ---> d013[CSS Flexbox]
+            d01 ---> d014[CSS Grid]
 
-            d0101 --> c10
-            d0102 --> c11
+            d0101 ---> c10
+            d0102 ---> c11
         end
 
-        %% FCC JS --> Concepts
+        %% FCC JS ---> Concepts
         subgraph fcc2 [Freecodecamp's JavaScript Algorithms and Data Structures]
-            d02 --> d020[ES6]
-            d02 --> d021[Regex]
-            d02 --> d022[Debugging]
-            d02 --> d023[Basic Data Structures]
-            d02 --> d024[Basic Algorithm Scripting]
-            d02 --> d025[Object Oriented Programming]
-            d02 --> d026[Functional Programming]
-            d02 --> d027[Intermediate Algorithm Scripting]
-            d02 --> d028[Functional Programming]
+            d02 ---> d020[ES6]
+            d02 ---> d021[Regex]
+            d02 ---> d022[Debugging]
+            d02 ---> d023[Basic Data Structures]
+            d02 ---> d024[Basic Algorithm Scripting]
+            d02 ---> d025[Object Oriented Programming]
+            d02 ---> d026[Functional Programming]
+            d02 ---> d027[Intermediate Algorithm Scripting]
+            d02 ---> d028[Functional Programming]
 
-            d02 --> d0201[Basic JavaScript]
-            d0201 --> c12
+            d02 ---> d0201[Basic JavaScript]
+            d0201 ---> c12
         end
 
-        %% FCC Front End Dev --> Concepts
+        %% FCC Front End Dev ---> Concepts
         subgraph fcc3 [Freecodecamp's Front End Development Libraries]
-            d03 --> d030[Bootstrap]
-            d03 --> d032[SASS]
-            d03 --> d034[Redux]
-            d03 --> d031[jQuery]
-            d03 --> d033[React]
+            d03 ---> d030[Bootstrap]
+            d03 ---> d032[SASS]
+            d03 ---> d034[Redux]
+            d03 ---> d031[jQuery]
+            d03 ---> d033[React]
 
-            d034 --> d033
-            d03 --> c0
+            d034 ---> d033
+            d03 ---> c0
 
             subgraph Frameworks
-                c0[Frameworks] --> d033
+                c0[Frameworks] ---> d033
 
-                c0 --> favLangs
+                c0 ---> favLangs
 
-                %% favourite ones --> langs
+                %% favourite ones ---> langs
                 subgraph favLangs [Favourite Languages]
                     c011(SvelteKit);
                     c012(Tailwind CSS);
@@ -133,23 +133,23 @@ flowchart LR
         end
     end
 
-    d031 --> c12
+    d031 ---> c12
 
-    %% tailwind --> programming languages related
-    c012 --> c11
+    %% tailwind ---> programming languages related
+    c012 ---> c11
 
-    %% sveltekit --> languages used
-    c011 --> c10  
-    c011 --> c11 
-    c011 --> c12 
+    %% sveltekit ---> languages used
+    c011 ---> c10  
+    c011 ---> c11 
+    c011 ---> c12 
 
-    %% FCC langs --> CSS
+    %% FCC langs ---> CSS
     %%%% Responsive 
-    d013[CSS Flexbox]   --> c11
-    d014[CSS Grid]      --> c11
+    d013[CSS Flexbox]   ---> c11
+    d014[CSS Grid]      ---> c11
     %%%% Frontend
-    d030                --> c11
-    d032                --> c11
+    d030                ---> c11
+    d032                ---> c11
 
 ```
   
